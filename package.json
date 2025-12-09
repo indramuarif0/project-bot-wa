@@ -1,0 +1,14 @@
+{
+  "name": "whatsapp-bot-protect",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp untuk proteksi grup",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^8.0.0"
+  }
+}
