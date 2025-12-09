@@ -1,5 +1,19 @@
 {
-  "allowed": ["6283139853205", "6285788584906"], 
-  "owner": ["6283139853205"],
-  "prefix": "."
+  "botName": "BotProteksiGrup",
+  "prefix": ".",
+  "mode": "private",
+
+  "owners": [
+    "6283139853205",
+    "6285788584906"
+  ],
+
+  "groupSettings": {
+    "antiLink": true,
+    "promosiLimit": 1
+  },
+
+  "messages": {
+    "silent": "" 
+  }
 }
